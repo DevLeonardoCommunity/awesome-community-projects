@@ -4,6 +4,8 @@
 
 All projects listed here are happy to accept contributions from people who are new to Open Source or who are learning something new in public, through Open Source projects.
 
+Don't forget to leave a ⭐️ on this list and on the projects you find interesting!
+
 ## Community-Owned Projects
 
 These projects are hosted in our community GitHub organization and are maintained by @balastrong with the help of other community members.
