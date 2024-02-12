@@ -39,9 +39,9 @@ Stack: JS (back-end)
 Do you have a welcoming project that you would like to add to this list? You can create a Pull Request, adding your project at the end of the list, following the format below:
 
 ```markdown
-### [project-name](project-url) by @[your-username](your-github-url)
+### [World_words_app](https://github.com/federicorex/World_words_app.git) by @[federicorex](https://github.com/federicorex)
 
-A short description of the project.
+This is a very, very basic app (show results only in console, no front-end, very basic back-end). The goal of this project is born for my need to learn many words of diferent foreign languages (at the moment english and german) and help me to track my progress over the time to see if I get better on learning new words or not. It would be nice to integrate and develop this app with the community (I've only created this in his embrional form) and, of course, add new languages in order to make this app more complete to cover more languages as possible. Due to time lack I've only renamed the english part (before was in italian) and not the german (which has still italian variables and comments) so check only this one and let me know if can be a good idea to be develop in future with the community or not. Just to be honest I've taken the words from vocabeo (german part) and from various sites on the web (english part). Thanks.
 
-Stack: Tech stack used.
+Stack: JS (back-end)
 ```
