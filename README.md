@@ -28,6 +28,12 @@ These projects are owned and maintained by individual community members, buildin
 
 <!-- Add your project above this line -->
 
+### [World_words_app](https://github.com/federicorex/World_words_app.git) by @[federicorex](https://github.com/federicorex)
+
+This is a very basic language learning app focused, at the moment, on English and German, intended for personal use to learn and track vocabulary progress. There is no front-end side and it has minimal back-end functionality. It would be great to integrate it with the community, expand language options, and seeks feedback on its potential for future development. Thanks.
+
+Stack: JS (back-end)
+
 ## Add your project
 
 Do you have a welcoming project that you would like to add to this list? You can create a Pull Request, adding your project at the end of the list, following the format below:
