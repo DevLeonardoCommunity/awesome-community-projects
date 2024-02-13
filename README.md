@@ -34,6 +34,12 @@ This is a very basic language learning app focused, at the moment, on English an
 
 Stack: JS (back-end)
 
+### [Kittylog](https://github.com/pietrodev07/kittylog) by @[pietrodev07](https://github.com/pietrodev07)
+
+KittyLog is a JavaScript library that makes your logs visually appealing and easy to understand. It helps organize information clearly and adds colors and styles to make messages stand out.
+
+Stack: NodeJs, Typescript.
+
 ## Add your project
 
 Do you have a welcoming project that you would like to add to this list? You can create a Pull Request, adding your project at the end of the list, following the format below:
