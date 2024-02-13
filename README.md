@@ -40,6 +40,12 @@ KittyLog is a JavaScript library that makes your logs visually appealing and eas
 
 Stack: NodeJs, Typescript.
 
+### [Astro Minimal](https://github.com/DomeT99/astro-minimal) by @[DomeT99](https://github.com/DomeT99)
+
+Astro Minimal is an open source blog template designed and developed using Astro and the Bulma CSS framework 🚀
+
+Stack: Astro, Typescript.
+
 ## Add your project
 
 Do you have a welcoming project that you would like to add to this list? You can create a Pull Request, adding your project at the end of the list, following the format below:
