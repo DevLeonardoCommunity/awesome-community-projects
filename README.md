@@ -26,10 +26,7 @@ Stack: Qwik, Typescript, Supabase.
 
 These projects are owned and maintained by individual community members, building in public.
 
-<!-- Add your project above this line -->
-
 ### [CutYourURL URL Shortener](https://github.com/ashishagarwal2023/CutYourURL.git) by @[ashishagarwal2023](https://github.com/ashishagarwal2023)
-(Looking for collabarators)
 
 This project is based on Python Flask and SQLite3 for DB, and is a attempt to make a Bitly URL Shortener's clone. It currently has URL clicks tracking, custom shorting, login/signup, advanced options and lot more!
 
@@ -52,6 +49,8 @@ Stack: NodeJs, Typescript.
 Astro Minimal is an open source blog template designed and developed using Astro and the Bulma CSS framework 🚀
 
 Stack: Astro, Typescript.
+
+<!-- Add your project above this line -->
 
 ## Add your project
 
