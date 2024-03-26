@@ -28,6 +28,13 @@ These projects are owned and maintained by individual community members, buildin
 
 <!-- Add your project above this line -->
 
+### [CutYourURL URL Shortener](https://github.com/ashishagarwal2023/CutYourURL.git) by @[ashishagarwal2023](https://github.com/ashishagarwal2023)
+(Looking for collabarators)
+
+This project is based on Python Flask and SQLite3 for DB, and is a attempt to make a Bitly URL Shortener's clone. It currently has URL clicks tracking, custom shorting, login/signup, advanced options and lot more!
+
+Stack: Flask (Back-end), HTML-JavaScript (Front-end)
+
 ### [World_words_app](https://github.com/federicorex/World_words_app.git) by @[federicorex](https://github.com/federicorex)
 
 This is a very basic language learning app focused, at the moment, on English and German, intended for personal use to learn and track vocabulary progress. There is no front-end side and it has minimal back-end functionality. It would be great to integrate it with the community, expand language options, and seeks feedback on its potential for future development. Thanks.
