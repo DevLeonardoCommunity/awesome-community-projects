@@ -50,6 +50,12 @@ Astro Minimal is an open source blog template designed and developed using Astro
 
 Stack: Astro, Typescript.
 
+### [Trivule](https://github.com/trivule/trivule) by @[Claudye](https://github.com/Claudye)
+
+Trivule is a powerful, user-friendly JavaScript library designed to streamline form validation for developers 🚀
+
+Stack: JavaScript, Typescript.
+
 <!-- Add your project above this line -->
 
 ## Add your project
