@@ -52,7 +52,7 @@ Stack: Astro, Typescript.
 
 ### [Trivule](https://github.com/trivule/trivule) by @[Claudye](https://github.com/Claudye)
 
-Trivule is a powerful, user-friendly JavaScript library designed to streamline form validation for developers 🚀
+Trivule is a powerful, user-friendly JavaScript library designed to streamline form validation with imperative and declarative mode 🚀
 
 Stack: JavaScript, Typescript.
 
