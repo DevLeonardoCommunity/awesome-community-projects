@@ -56,7 +56,11 @@ Trivule is a powerful, user-friendly JavaScript library designed to streamline f
 
 Stack: JavaScript, Typescript.
 
-<!-- Add your project above this line -->
+### [Some drops of JavaScript](https://github.com/roberto-butti/some-drops-of-javascript) by @[roberto-butti](https://github.com/roberto-butti)
+
+This book collects some useful, unknown, underrated JavaScript functions discovered and learned while using JavaScript daily.
+
+Stack: Astro, JavaScript.
 
 ## Add your project
 
